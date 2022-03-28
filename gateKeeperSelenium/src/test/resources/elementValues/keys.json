@@ -1,0 +1,62 @@
+[
+  {
+    "key": "searchArea",
+    "value": "mat-input-3",
+    "type": "id"
+  },
+  {
+    "key": "bobiDisplayed",
+    "value": "//*[contains(text(),' Bobi Codeshake ')]",
+    "type": "xpath"
+  },
+  {
+    "key": "text_mainTitle",
+    "value": "//*[contains(text(),' Welcome to your Gatekeeper challenge. ')]//p",
+    "type": "xpath"
+  },
+  {
+    "key": "button_letTheBattleBegin",
+    "value": ".mat-button-wrapper",
+    "type": "css"
+  },
+  {
+    "key": "icon_orangeArrow",
+    "value": "//*[@style='color: orange; cursor: pointer;']",
+    "type": "xpath"
+  },
+  {
+    "key": "icon_greyArrows",
+    "value": "div[class='ng-star-inserted'] i:not([style])",
+    "type": "css"
+  },
+  {
+    "key": "text_address",
+    "value": "(//*[contains(text(),' Our address needs to be verified.')])/p",
+    "type": "xpath"
+  },
+  {
+    "key": "text_firstNumber",
+    "value": "mat-input-0",
+    "type": "id"
+  },
+  {
+    "key": "button_codeShakeAboutUs",
+    "value": "//*[contains(text(),'About Us')]",
+    "type": "xpath"
+  },
+  {
+    "key": "button_codeShakeProducts",
+    "value": "//*[contains(text(),'Products')]",
+    "type": "xpath"
+  },
+  {
+    "key": "button_codeShakeVacancies",
+    "value": "//*[contains(text(),'About Us')]",
+    "type": "xpath"
+  },
+  {
+    "key": "text_meetTeam",
+    "value": "//*[contains(text(),'This Is Us, Meet the Team')]",
+    "type": "xpath"
+  }
+]
